@@ -5,4 +5,9 @@ public class TestService {
 		// 注释
 		System.out.println("invoke test method");
 	}
+	
+	
+	public int add(int a){
+		return a++;
+	}
 }
