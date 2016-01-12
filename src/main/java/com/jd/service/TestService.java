@@ -15,6 +15,6 @@ public class TestService {
 	}
 	
 	public void test2(){
-		
+		System.out.println("再输出一次");
 	}
 }
