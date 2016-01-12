@@ -13,4 +13,8 @@ public class TestService {
 	public int add(int a){
 		return a++;
 	}
+	
+	public void test2(){
+		
+	}
 }
